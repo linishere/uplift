@@ -7,7 +7,9 @@
 .timeline {
   position: relative;
   max-width: 1200px;
-  margin: 15px auto;
+  margin: auto;
+  padding: 15px;
+  background-color: #6a9488;
 }
 
 .timeline::after {
