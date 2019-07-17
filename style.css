@@ -3,3 +3,15 @@
   margin: 0;
   box-sizing: border-box;
 }
+
+h1 {
+  display: flex;
+  justify-content: center;
+  background-color: #b6b29a;
+  color: blanchedalmond;
+  font-family: 'Poppins', sans-serif;
+}
+
+body {
+  background-color: 
+}
