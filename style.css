@@ -2,16 +2,21 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
+  background-color: #b6b29a
+
 }
 
 h1 {
   display: flex;
   justify-content: center;
-  background-color: #b6b29a;
-  color: blanchedalmond;
+  background-color: #6A9488;
+  color: #FE7171 ;
+  text-shadow: 2px 4px white;
   font-family: 'Poppins', sans-serif;
+
 }
 
 body {
-  background-color: 
+  background-color:;
+  font-family:'Arial' sans-serif;
 }
