@@ -2,21 +2,90 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
-  background-color: #b6b29a
+
+
+}
+
+body {
+    background-color: #ECD8CC
 
 }
 
 h1 {
   display: flex;
-  justify-content: center;
+  justify-content: flex-start;
+  padding-left: 175px;
+  font-size: 75px;
   background-color: #6A9488;
   color: #FE7171 ;
   text-shadow: 2px 4px white;
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Lobster', sans-serif;
 
 }
 
-body {
-  background-color:;
-  font-family:'Arial' sans-serif;
+p {
+font-family: 'Nanum Gothic', sans-serif;
+color: black;
+
+
 }
+
+.missionstatement {
+display: flex;
+justify-content: center;
+margin: auto;
+padding: 50px;
+font-size: 25px;
+font-weight: bold;
+
+}
+
+.statistics {
+/* display: block;
+float: left; */
+display: flex;
+justify-content: row;
+justify-content: column;
+flex-wrap: wrap;
+padding-top: 50px;
+padding: 30px;
+margin: 20px;
+justify-content: space-between;
+border-style: solid;
+border-width: 2px;
+font-size: 20px;
+
+
+}
+
+.header {
+
+
+}
+nav {
+  font-family: 'Lobster', sans-serif;
+  color: #6A9488;
+  text-shadow: 1px 1px white;
+  display: flex;
+  justify-content: center;
+  justify-content: space-around;
+  /* margin-left: 50px; */
+  font-size: 40px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: #E6AB93;
+
+}
+
+/* .hispanic {
+padding: 0;
+margin: 0;
+font-size:
+
+}
+
+.black {
+padding: 0;
+margin: 0;
+
+} */
