@@ -4,12 +4,29 @@
   box-sizing: border-box;
 }
 
+.resourcestatement {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 15px;
+  background-color: #6a9488;
+  margin: 15px;
+}
+
+.nou {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 15px;
+  background-color: #E6AB93;
+  margin: 15px;
+}
+
 .timeline {
   position: relative;
   max-width: 1200px;
   margin: auto;
   padding: 15px;
-  background-color: #6a9488;
 }
 
 .timeline::after {
@@ -75,4 +92,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  text-decoration: none;
+  color: black;
+  font-family: 'Nanum Gothic';
 }
