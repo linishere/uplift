@@ -266,6 +266,8 @@ h2 {
 
 .blackberry {
   font-weight: bold;
+  font-size: 30px;
+  padding: 5px;
 }
 
 .raspberry {
@@ -282,14 +284,14 @@ h2 {
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 15px;
+  padding: 10px;
 }
 
 .three {
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 15px;
+  padding: 5px;
 }
 
 footer {
@@ -305,15 +307,18 @@ footer {
 .green{
 text-decoration: none;
 color:black;
+  font-family: 'Nanum Gothic', sans-serif;
 
 
 }
-<<<<<<< HEAD
-
-.inputdisplay {
+.dietrate {
   display: flex;
   justify-content: center;
+  align-items: center;
+  padding: 15px;
 }
+<<<<<<< HEAD
+=======
 =======
 >>>>>>> 01d2dd0200ae2b74b4fe1446f5d02ba086511737
 >>>>>>> d0b7ef1016375084943650694a23f798dd4de791
@@ -330,6 +335,7 @@ color:black;
   flex-direction: column;
   margin: 5%;
 }
+>>>>>>> a5d3430d9fd8be57dc1e89ff60c111bb5048d5b5
 /* .hispanic {
 padding: 0;
 margin: 0;
