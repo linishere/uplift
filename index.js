@@ -9,5 +9,5 @@ function woo() {
 }
 
 function gotobutton(text) {
-  inputdisplay.append(`<p>${text}</p>`);
+  inputdisplay.append(`<p class="dietrate">${text}</p>`);
 }
