@@ -333,4 +333,11 @@ color:black;
   display: flex;
   flex-direction: column;
   margin: 5%;
+  font-family: 'Nanum-Gothic', sans-serif;
+}
+
+.shelterneeds {
+  display: flex;
+  flex-direction: column;
+  margin: 5%;
 }
