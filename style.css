@@ -203,6 +203,46 @@ h2 {
   padding-left: 5%;
   padding-bottom: 20px;
 }
+
+.wallboi {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.input {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.two {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.three {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+footer {
+  background-color:#6A9488;
+  display:flex;
+  justify-content: space-around;
+  align-items: baseline;
+  padding:15px;
+
+
+}
+.green{
+text-decoration: none;
+color:black;
+
+
+}
 /* .hispanic {
 padding: 0;
 margin: 0;
