@@ -134,10 +134,10 @@ left: -150px;
   display: flex;
   justify-content: center;
   font-family: 'Nanum Gothic', sans-serif;
-  color: black;
+  color: #5C7875;
   padding: 50px;
-  border: 3px solid black;
-  margin: 2%;
+  border: 5px solid #6A9488;
+  margin: 1%;
 
 }
 
@@ -205,7 +205,7 @@ h2 {
   padding-bottom: 20px;
 }
 
-<<<<<<< HEAD
+
 .hotline {
   color: black;
 }
