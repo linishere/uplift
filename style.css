@@ -120,7 +120,6 @@ nav {
 
 }
 
-<<<<<<< HEAD
 .logo {
 display: flex;
 justify-content: flex-start;
@@ -134,14 +133,11 @@ border-style: solid;
 /* margin-right: 50px; */
 
 }
-
-
-
-=======
 .resourcestatement {
   display: flex;
   justify-content: center;
   font-family: 'Nanum Gothic', sans-serif;
+  color: black;
   padding: 50px;
   border-style: solid;
 }
@@ -209,6 +205,30 @@ h2 {
   padding-left: 5%;
   padding-bottom: 20px;
 }
+
+.hotline {
+  color: black;
+}
+
+.hothot {
+  color: #6A9488;
+  display: flex;
+  justify-content: flex-start;
+}
+
+.volvol {
+  color: #6A9488;
+  display: flex;
+  justify-content: flex-start;
+}
+
+.dondon {
+  color: #6A9488;
+  display: flex;
+  justify-content: flex-start;
+}
+
+
 /* .hispanic {
 padding: 0;
 margin: 0;
