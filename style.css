@@ -267,6 +267,10 @@ h2 {
   font-weight: bold;
 }
 
+.raspberry {
+  text-decoration: none;
+}
+
 .input {
   display: flex;
   justify-content: center;
