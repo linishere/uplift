@@ -134,10 +134,10 @@ left: -150px;
   display: flex;
   justify-content: center;
   font-family: 'Nanum Gothic', sans-serif;
-  color: black;
+  color: #5C7875;
   padding: 50px;
-  border: 3px solid black;
-  margin: 2%;
+  border: 5px solid #6A9488;
+  margin: 1%;
 
 }
 
@@ -205,7 +205,7 @@ h2 {
   padding-bottom: 20px;
 }
 
-<<<<<<< HEAD
+
 .hotline {
   color: black;
 }
@@ -316,6 +316,12 @@ color:black;
 =======
 >>>>>>> 01d2dd0200ae2b74b4fe1446f5d02ba086511737
 >>>>>>> d0b7ef1016375084943650694a23f798dd4de791
+
+.shelter {
+  display: flex;
+  flex-direction: column;
+  margin: 5%;
+}
 /* .hispanic {
 padding: 0;
 margin: 0;
