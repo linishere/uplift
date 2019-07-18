@@ -82,6 +82,7 @@ nav {
   justify-content: center;
   font-family: 'Nanum Gothic', sans-serif;
   padding: 50px;
+  border-style: solid;
 }
 
 h2 {
@@ -93,19 +94,19 @@ h2 {
 .DVhotlinenumber {
   font-family: 'Nanum Gothic', sans-serif;
   font-size: 20px;
-  padding-left: 30px;
+  padding-left: 90px;
 }
 
 .sexualassault {
   font-family: 'Nanum Gothic', sans-serif;
   font-size: 20px;
-    padding-left: 30px;
+    padding-left: 90px;
 }
 
 .womenindistress {
   font-family: 'Nanum Gothic', sans-serif;
   font-size: 20px;
-    padding-left: 30px;
+    padding-left: 90px;
 }
 
 
@@ -124,6 +125,13 @@ h2 {
   height: 70%;
   display: flex;
   justify-content: flex-end;
+}
+
+.hotlinedesicription {
+  font-size: 20px;
+  padding: 5px;
+  padding-left: 5%;
+  padding-bottom: 20px;
 }
 /* .hispanic {
 padding: 0;
