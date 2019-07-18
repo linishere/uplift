@@ -121,13 +121,28 @@ h2 {
   clear: left;
 }
 .womenpicture {
-  width: 95%;
-  height: 70%;
+  width: 100%;
+  height: 100%;
   display: flex;
   justify-content: flex-end;
+  padding-top: 25%;
 }
 
 .hotlinedesicription {
+  font-size: 20px;
+  padding: 5px;
+  padding-left: 5%;
+  padding-bottom: 20px;
+}
+
+.volunteerdescription {
+  font-size: 20px;
+  padding: 5px;
+  padding-left: 5%;
+  padding-bottom: 20px;
+}
+
+.donatedescription {
   font-size: 20px;
   padding: 5px;
   padding-left: 5%;
