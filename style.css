@@ -241,6 +241,25 @@ footer {
 .green{
 text-decoration: none;
 color:black;
+}
+.sirbuttlock {
+  font-family: 'Nanum Gothic', sans-serif;
+  font-size: 20px;
+    padding-left: 90px;
+    text-decoration: none;
+
+}
+.ladybutlock{
+  font-family: 'Nanum Gothic', sans-serif;
+  font-size: 20px;
+    padding-left: 90px;
+    text-decoration: none;
+    margin: 5px;
+
+}
+
+
+
 
 
 }
