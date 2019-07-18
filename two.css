@@ -8,13 +8,12 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  flex-wrap: wrap;
+  text-align: center;
+  font-family: "Nanum Gothic";
   padding: 15px;
   background-color: #6a9488;
   margin: 15px;
-  color: white;
-  text-shadow: 1px 3px #FE7171;
-  font-family: 'Lobster', sans-serif;
-  font-size; 30px;
 }
 
 .nou {
@@ -38,7 +37,7 @@
   content: '';
   position: absolute;
   width: 6px;
-  background-color: white;
+  background-color: #FE7171;
   top: 0;
   bottom: 0;
   left: 50%;
