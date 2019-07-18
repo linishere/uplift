@@ -130,18 +130,19 @@ left: -150px;
 /* margin-right: 50px; */
 
 }
-
-=======
 .resourcestatement {
   display: flex;
   justify-content: center;
   font-family: 'Nanum Gothic', sans-serif;
+  color: black;
   padding: 50px;
-  border-style: solid;
+  border: 3px solid black;
+  margin: 2%;
+
 }
 
 h2 {
-  font-family: 'Lobster', sans-serif;
+  /* font-family: 'Lobster', sans-serif; */
   font-size: 30px;
   padding: 30px;
 }
@@ -204,6 +205,49 @@ h2 {
   padding-bottom: 20px;
 }
 
+<<<<<<< HEAD
+.hotline {
+  color: black;
+}
+
+.hothot {
+  color: #6A9488;
+  display: flex;
+  justify-content: flex-start;
+  font-weight: bold;
+}
+
+.volvol {
+  color: #6A9488;
+  display: flex;
+  justify-content: flex-start;
+}
+
+.dondon {
+  color: #6A9488;
+  display: flex;
+  justify-content: flex-start;
+}
+.volopportunities {
+  display: flex;
+  flex-direction: column;
+  margin: 5%;
+}
+
+.volinterests {
+  display: flex;
+  flex-direction: column;
+  margin: 5%;
+}
+
+.volassault {
+  display: flex;
+  flex-direction: column;
+  margin: 5%;
+}
+
+
+=======
 .wallboi {
   display: flex;
   justify-content: center;
@@ -259,11 +303,15 @@ color:black;
 
 
 }
+<<<<<<< HEAD
 
 .inputdisplay {
   display: flex;
   justify-content: center;
 }
+=======
+>>>>>>> 01d2dd0200ae2b74b4fe1446f5d02ba086511737
+>>>>>>> d0b7ef1016375084943650694a23f798dd4de791
 /* .hispanic {
 padding: 0;
 margin: 0;
