@@ -1,3 +1,15 @@
+* {
+  margin: 0;
+}
+
+@media all and (max-width: 900px) {
+
+}
+
+@media all and (max-width: 700px) {
+
+}
+
 var button = $('button');
 var inputdisplay = $('.inputdisplay')
 
