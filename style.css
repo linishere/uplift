@@ -234,9 +234,10 @@ footer {
   justify-content: space-around;
   align-items: baseline;
   padding:15px;
-
-
+  width: 100%;
+  float: none;
 }
+
 .green{
 text-decoration: none;
 color:black;
