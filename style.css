@@ -254,6 +254,23 @@ h2 {
   align-items: center;
 }
 
+.strawberry {
+  color: #5C7875;
+  font-size: 40px;
+}
+
+.blueberry {
+  font-size: 40px;
+}
+
+.blackberry {
+  font-weight: bold;
+}
+
+.raspberry {
+  text-decoration: none;
+}
+
 .input {
   display: flex;
   justify-content: center;
@@ -264,12 +281,14 @@ h2 {
   display: flex;
   justify-content: center;
   align-items: center;
+  padding: 15px;
 }
 
 .three {
   display: flex;
   justify-content: center;
   align-items: center;
+  padding: 15px;
 }
 
 footer {
@@ -288,7 +307,21 @@ color:black;
 
 
 }
+<<<<<<< HEAD
+
+.inputdisplay {
+  display: flex;
+  justify-content: center;
+}
+=======
 >>>>>>> 01d2dd0200ae2b74b4fe1446f5d02ba086511737
+>>>>>>> d0b7ef1016375084943650694a23f798dd4de791
+
+.shelter {
+  display: flex;
+  flex-direction: column;
+  margin: 5%;
+}
 /* .hispanic {
 padding: 0;
 margin: 0;
