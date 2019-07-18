@@ -210,6 +210,19 @@ h2 {
   align-items: center;
 }
 
+.strawberry {
+  color: #5C7875;
+  font-size: 40px;
+}
+
+.blueberry {
+  font-size: 40px;
+}
+
+.blackberry {
+  font-weight: bold;
+}
+
 .input {
   display: flex;
   justify-content: center;
@@ -220,12 +233,14 @@ h2 {
   display: flex;
   justify-content: center;
   align-items: center;
+  padding: 15px;
 }
 
 .three {
   display: flex;
   justify-content: center;
   align-items: center;
+  padding: 15px;
 }
 
 footer {
@@ -243,6 +258,11 @@ text-decoration: none;
 color:black;
 
 
+}
+
+.inputdisplay {
+  display: flex;
+  justify-content: center;
 }
 /* .hispanic {
 padding: 0;
