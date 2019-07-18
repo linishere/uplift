@@ -205,6 +205,7 @@ h2 {
   padding-bottom: 20px;
 }
 
+<<<<<<< HEAD
 .hotline {
   color: black;
 }
@@ -246,6 +247,48 @@ h2 {
 }
 
 
+=======
+.wallboi {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.input {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.two {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.three {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+footer {
+  background-color:#6A9488;
+  display:flex;
+  justify-content: space-around;
+  align-items: baseline;
+  padding:15px;
+  width: 100%;
+  float: none;
+}
+
+.green{
+text-decoration: none;
+color:black;
+
+
+}
+>>>>>>> 01d2dd0200ae2b74b4fe1446f5d02ba086511737
 /* .hispanic {
 padding: 0;
 margin: 0;
