@@ -247,8 +247,6 @@ h2 {
   margin: 5%;
 }
 
-
-=======
 .wallboi {
   display: flex;
   justify-content: center;
@@ -307,22 +305,30 @@ footer {
 .green{
 text-decoration: none;
 color:black;
+<<<<<<< HEAD
+}
+.sirbuttlock {
   font-family: 'Nanum Gothic', sans-serif;
-
+  font-size: 20px;
+    padding-left: 90px;
+    text-decoration: none;
 
 }
+.ladybutlock{
+  font-family: 'Nanum Gothic', sans-serif;
+  font-size: 20px;
+    padding-left: 90px;
+    text-decoration: none;
+    margin: 5px;
+
+}
+
 .dietrate {
   display: flex;
   justify-content: center;
   align-items: center;
   padding: 15px;
 }
-<<<<<<< HEAD
-=======
-=======
->>>>>>> 01d2dd0200ae2b74b4fe1446f5d02ba086511737
->>>>>>> d0b7ef1016375084943650694a23f798dd4de791
-
 .shelter {
   display: flex;
   flex-direction: column;
@@ -335,16 +341,3 @@ color:black;
   flex-direction: column;
   margin: 5%;
 }
->>>>>>> a5d3430d9fd8be57dc1e89ff60c111bb5048d5b5
-/* .hispanic {
-padding: 0;
-margin: 0;
-font-size:
-
-}
-
-.black {
-padding: 0;
-margin: 0;
-
-} */
