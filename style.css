@@ -21,7 +21,6 @@ h1 {
   color: #FE7171 ;
   text-shadow: 2px 4px white;
   font-family: 'Lobster', sans-serif;
-  border: 5px solid;
 }
 
 h2 {
@@ -97,7 +96,6 @@ padding: 7px;
   display: flex;
   flex-direction: row;
   background-color: #6A9488;
-  border: 5px dashed yellow;
 }
 
 .top img {
@@ -120,22 +118,18 @@ nav {
 
 }
 
-<<<<<<< HEAD
 .logo {
 display: flex;
 justify-content: flex-start;
 width: 15%;
-height: 25%;
+height: 10%;
 /* padding-right: 50px; */
 position: relative;
 top: -16px;
 left: -150px;
-border-style: solid;
 /* margin-right: 50px; */
 
 }
-
-
 
 =======
 .resourcestatement {
