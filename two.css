@@ -8,6 +8,9 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  flex-wrap: wrap;
+  text-align: center;
+  font-family: "Nanum Gothic";
   padding: 15px;
   background-color: #6a9488;
   margin: 15px;
@@ -20,6 +23,7 @@
   padding: 15px;
   background-color: #E6AB93;
   margin: 15px;
+  font-family: 'Nanum Gothic';
 }
 
 .timeline {
@@ -33,7 +37,7 @@
   content: '';
   position: absolute;
   width: 6px;
-  background-color: white;
+  background-color: #FE7171;
   top: 0;
   bottom: 0;
   left: 50%;

@@ -1,0 +1,66 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.ahnou {
+  float: left;
+  width: 50%;
+  color: white;
+}
+
+.dare {
+  float: left;
+  width: 50%;
+}
+
+.kar {
+  background-color: #6A9488;
+  padding: 15px;
+  margin: 15px;
+}
+
+.kim {
+  background-color: #E6AB93;
+  padding: 15px;
+  margin: 15px;
+}
+
+.lin {
+  background-color: #6A9488;
+  padding: 15px;
+  margin: 15px;
+}
+
+.madi {
+  background-color: #E6AB93;
+  padding: 15px;
+  margin: 15px;
+}
+
+.headbro {
+  background-color: #6A9488;
+  padding: 15px;
+  margin: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  text-shadow: 1px 3px #FE7171;
+  font-family: 'Lobster', sans-serif;
+  font-size; 30px;
+}
+
+.basicabout {
+  background-color: #E6AB93;
+  padding: 15px;
+  margin: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.fiteme {
+  color: white;
+}
