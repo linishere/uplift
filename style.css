@@ -7,26 +7,40 @@
 }
 
 body {
-    background-color: #ECD8CC
+    background-color: #ECD8CC;
+    padding: -30px;
+
 
 }
 
 h1 {
   display: flex;
   justify-content: flex-start;
-  padding-left: 175px;
-  font-size: 75px;
-  background-color: #6A9488;
+  font-size: 90px;
+  padding-top: 30px;
   color: #FE7171 ;
   text-shadow: 2px 4px white;
   font-family: 'Lobster', sans-serif;
+  border: 5px solid;
+}
+
+h2 {
+font-family: 'Lobster', sans-serif;
+text-shadow: 2px 2px white;
+font-size: 40px;
+color: #FE7171;
+padding-bottom: 30px;
+display: flex;
+justify-content: center;
 
 }
+
+
+
 
 p {
 font-family: 'Nanum Gothic', sans-serif;
 color: black;
-
 
 }
 
@@ -40,28 +54,57 @@ font-weight: bold;
 
 }
 
-.statistics {
-/* display: block;
-float: left; */
+
+
+
+.center {
 display: flex;
-justify-content: row;
-justify-content: column;
+justify-content: space-evenly;
+flex-direction: row;
 flex-wrap: wrap;
-padding-top: 50px;
-padding: 30px;
-margin: 20px;
-justify-content: space-between;
-border-style: solid;
-border-width: 2px;
-font-size: 20px;
+padding-bottom: 30px;
+border:
+
+}
+
+.stats {
+font-size: 25px;
+width: 30%;
+
 
 
 }
 
-.header {
-
+#a {
+border: 3px solid #6A9488;
+padding: 7px;
 
 }
+
+#b {
+border: 3px solid #6A9488;
+padding: 7px;
+
+}
+
+#c {
+border: 3px solid #6A9488;
+padding: 7px;
+
+}
+
+.top {
+  display: flex;
+  flex-direction: row;
+  background-color: #6A9488;
+  border: 5px dashed yellow;
+}
+
+.top img {
+  margin-left: 200px;
+  margin-right: 0px;
+}
+
 nav {
   font-family: 'Lobster', sans-serif;
   color: #6A9488;
@@ -76,6 +119,22 @@ nav {
   background-color: #E6AB93;
 
 }
+
+.logo {
+display: flex;
+justify-content: flex-start;
+width: 15%;
+height: 25%;
+/* padding-right: 50px; */
+position: relative;
+top: -16px;
+left: -150px;
+border-style: solid;
+/* margin-right: 50px; */
+
+}
+
+
 
 /* .hispanic {
 padding: 0;
