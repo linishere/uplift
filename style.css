@@ -367,9 +367,14 @@ color:black;
 }
 
 .smallpic {
-  display: flex;
-  justify-content: flex-end;
   width: 250px;
   height: 250px;
   padding: 20px;
+}
+
+.image2 {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: center;
 }
