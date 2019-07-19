@@ -5,38 +5,46 @@
 }
 
 .ahnou {
-  float: left;
-  width: 50%;
+  float: center;
   color: white;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .dare {
-  float: left;
-  width: 50%;
+  float: center;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .kar {
   background-color: #6A9488;
   padding: 15px;
-  margin: 15px;
 }
 
 .kim {
   background-color: #E6AB93;
-  padding: 15px;
-  margin: 15px;
+    padding: 15px;
 }
 
 .lin {
   background-color: #6A9488;
-  padding: 15px;
-  margin: 15px;
+    padding: 15px;
 }
 
 .madi {
   background-color: #E6AB93;
-  padding: 15px;
-  margin: 15px;
+    padding: 15px;
 }
 
 .headbro {
@@ -56,6 +64,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  font-weight: bold;
 }
 
 .fiteme {
