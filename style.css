@@ -365,3 +365,11 @@ color:black;
   margin: 5%;
   font-family: 'Nanum-Gothic', sans-serif;
 }
+
+.smallpic {
+  display: flex;
+  justify-content: flex-end;
+  width: 250px;
+  height: 250px;
+  padding: 20px;
+}
