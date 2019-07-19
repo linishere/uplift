@@ -323,6 +323,10 @@ color:black;
 
 }
 
+.spacing {
+  padding-bottom: 30px;
+}
+
 .dietrate {
   display: flex;
   justify-content: center;
