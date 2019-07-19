@@ -8,35 +8,29 @@
   float: left;
   width: 50%;
   color: white;
+  margin: 5px;
 }
 
 .dare {
   float: left;
   width: 50%;
+  margin: 5px;
 }
 
 .kar {
   background-color: #6A9488;
-  padding: 15px;
-  margin: 15px;
 }
 
 .kim {
   background-color: #E6AB93;
-  padding: 15px;
-  margin: 15px;
 }
 
 .lin {
   background-color: #6A9488;
-  padding: 15px;
-  margin: 15px;
 }
 
 .madi {
   background-color: #E6AB93;
-  padding: 15px;
-  margin: 15px;
 }
 
 .headbro {
