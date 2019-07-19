@@ -329,15 +329,3 @@ color:black;
   align-items: center;
   padding: 15px;
 }
-.shelter {
-  display: flex;
-  flex-direction: column;
-  margin: 5%;
-  font-family: 'Nanum-Gothic', sans-serif;
-}
-
-.shelterneeds {
-  display: flex;
-  flex-direction: column;
-  margin: 5%;
-}
