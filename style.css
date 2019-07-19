@@ -262,7 +262,7 @@ h2 {
 
 .blueberry {
   font-size: 40px;
-  
+
 }
 
 .blackberry {
@@ -325,6 +325,29 @@ color:black;
 
 }
 
+.hydrate {
+  height: 35%;
+  width: 40%;
+  margin: 15px;
+}
+
+.izzy {
+  height: 5%;
+  width: 17.85%;
+  margin: 15px;
+}
+.alex {
+  height: 10%;
+  width: 17.7%;
+  margin: 15px;
+}
+
+.mara {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: center;
+}
 .spacing {
   padding-bottom: 30px;
 }
