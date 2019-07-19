@@ -152,12 +152,14 @@ h2 {
   font-family: 'Nanum Gothic', sans-serif;
   font-size: 20px;
   padding-left: 90px;
+  padding-bottom: 2%;
 }
 
 .sexualassault {
   font-family: 'Nanum Gothic', sans-serif;
   font-size: 20px;
     padding-left: 90px;
+    padding-bottom: 2%;
 }
 
 .womenindistress {
@@ -418,12 +420,17 @@ color:black;
 
 }
 
+.spacing {
+  padding-bottom: 30px;
+}
+
 .dietrate {
   display: flex;
   justify-content: center;
   align-items: center;
   padding: 15px;
 }
+<<<<<<< HEAD
 <<<<<<< HEAD
 
 =======
@@ -447,3 +454,5 @@ font-size:
   flex-direction: column;
   margin: 5%;
 }
+=======
+>>>>>>> b4d1469cdaaddfce59b94da5bbf83d9adc6ccad6
